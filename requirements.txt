@@ -1,0 +1,15 @@
+langchain~=1.0.2
+deepagents~=0.1.4
+langchain_google_genai
+tavily-python
+langchain_tavily
+dotenv~=0.9.9
+pydantic
+langchain-community~=0.4.1
+fastapi~=0.120.0
+streamlit~=1.50.0
+uvicorn
+langchain-google-genai~=3.0.0
+python-dotenv~=1.2.1
+requests~=2.32.5
+python-multipart
